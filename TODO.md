@@ -1,0 +1,2 @@
+- Install chainlink
+  - forge install forge install smartcontractkit/chainlink-brownie-contracts
